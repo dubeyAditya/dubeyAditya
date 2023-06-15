@@ -6,5 +6,5 @@
 
 Some of Projects made with React Js
 
-1.  https://vercel.com/sinisterdubey/covid19resources
-2.  https://vercel.com/sinisterdubey/books-search-engine
+1.  [https://vercel.com/sinisterdubey/covid19resources](https://covid19resources.vercel.app/)
+2.  [https://vercel.com/sinisterdubey/books-search-engine](https://books-search-engine.vercel.app/)
