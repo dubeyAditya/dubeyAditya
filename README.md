@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @dubeyAditya
-- 👀 I’m interested in ...Javascript 
-- 🌱 I’m currently learning ...Kubernetes
-- 💞️ I’m looking to collaborate on ...Iot Projects
-- 📫 How to reach me ... ehaditya@icloud.com
+Hi, I'm
+** I'm interested in:**
 
-Some of Projects made with React Js
+JavaScript: Building dynamic and interactive web experiences.
+** I'm currently learning:**
 
-1.  [https://vercel.com/sinisterdubey/covid19resources](https://covid19resources.vercel.app/)
-2.  [https://vercel.com/sinisterdubey/books-search-engine](https://books-search-engine.vercel.app/)
+Kubernetes: Orchestrating containerized applications for scalability and reliability.
+️ I'm looking to collaborate on:
+
+IoT Projects: Connecting devices to the internet and building solutions using them.
+** How to reach me:**
+
+Email: sinister.dubey@gmail.com
