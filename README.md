@@ -1,13 +1,13 @@
-Hi, I'm
-** I'm interested in:**
+Senior Full-Stack Developer | Technical Lead
 
-JavaScript: Building dynamic and interactive web experiences.
-** I'm currently learning:**
+"I don't just build apps; I build intelligent, autonomous solutions."
 
-Kubernetes: Orchestrating containerized applications for scalability and reliability.
-️ I'm looking to collaborate on:
+🔭 Currently: Integrating LLMs and Agentic workflows into modern stacks.
 
-IoT Projects: Connecting devices to the internet and building solutions using them.
-** How to reach me:**
+⚡ Specialty: High-scale applications with React, Vue, and NestJS.
 
-Email: sinister.dubey@gmail.com
+🛠 Workflow: AI-accelerated development via Cursor & CLI-based agents.
+
+📜 Legacy: 11 years of full-stack evolution—from Backbone.js to AI-native microservices.
+
+🌍 Location: Indore, India.
